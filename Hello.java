@@ -1,4 +1,4 @@
-//For command line git tutorial
+//For command line git tutoriail
 //Local repository modification
 public class Hello {
 	public static void main(String[] sgitrgs) {
@@ -8,5 +8,6 @@ public class Hello {
 		system.out.println("Register");
 		system.out.println("what is this?")
 		system.out.println("That's DVCS!");
+		system.out.println("Good Afternoon!")
 	}
 }
