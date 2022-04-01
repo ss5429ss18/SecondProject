@@ -8,5 +8,6 @@ public class Hello {
 		system.out.println("Register");
 		system.out.println("what is this?")
 		system.out.println("That's DVCS!");
+		System.out.println("hello")
 	}
 }
